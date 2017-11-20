@@ -1,3 +1,3 @@
 ```
-git remote add
+git remote add 
 ```

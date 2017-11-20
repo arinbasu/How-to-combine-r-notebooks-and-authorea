@@ -1,3 +1,3 @@
 ```
-git remote add origin <
+git remote add origin <type the git 
 ```

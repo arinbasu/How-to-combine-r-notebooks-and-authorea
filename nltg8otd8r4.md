@@ -6,5 +6,5 @@ git remote -v
 # then do:
 git pull origin master
 # this will pull contents of your authorea paper to your repo
-# write aa
+# write away
 ```

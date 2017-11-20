@@ -4,5 +4,5 @@ git remote add origin <type the git repo url here>
 git remote -v
 # you will see the git fetch urls
 # then do:
-git 
+git pull or
 ```
